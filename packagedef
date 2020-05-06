@@ -1,0 +1,9 @@
+Описание.Имя("ReplaceStyleItemsFor1C")
+    .Версия("1.0.0")
+    .Автор("Anton Gil")
+    .АдресАвтора("gil.av@gazprom-neft.ru")
+    .Описание("Замена кодов элеметов стилей из формата 1C:EDT в формат 1С:Конфигуратор")
+    .ВерсияСреды("1.0.17")
+    .ВключитьФайл("src")
+    .ВключитьФайл("README.md")
+    .ИсполняемыйФайл("src/ReplaceStyleItemsFor1C.os", "ReplaceStyleItemsFor1C");
